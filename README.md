@@ -1,4 +1,4 @@
 
-Video demo
-https://github.com/nassimmninou/Sudoku/assets/130867963/dc572808-15fd-48d1-8934-d5a8f0254932
+
+https://github.com/nassimmninou/Sudoku/assets/130867963/03d09e8e-67a6-48c1-a4ef-150d53e06827
 
